@@ -1,4 +1,7 @@
 function add(a, b) {
-    //comment
   return a + b;
+}
+
+function multiply(a, b) {
+    return a * b;
 }
